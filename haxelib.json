@@ -1,0 +1,19 @@
+{
+  "name": "redux-tools",
+  "description": "Tools for working with haxe-redux",
+  "version": "0.1.0",
+  "releasenote": "TODO",
+  "url": "https://github.com/kLabz/haxe-redux-tools",
+  "license": "MIT",
+  "tags": [
+    "javascript",
+    "redux"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "klabz"
+  ],
+  "dependencies": {
+    "js-object": ""
+  }
+}

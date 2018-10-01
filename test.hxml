@@ -1,0 +1,14 @@
+-cp src
+-cp test/src
+
+-lib autotest
+-lib node-shebang
+-lib js-object
+-lib redux
+
+-D nodejs
+-D buddy-colors
+
+-js .build/test
+-cmd chmod +x .build/test
+-cmd .build/test

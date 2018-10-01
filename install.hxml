@@ -1,0 +1,4 @@
+-lib autotest:0.1.0
+-lib node-shebang:0.1.0
+-lib js-object:0.0.5
+-lib redux:0.5.1
